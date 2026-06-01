@@ -46,7 +46,7 @@ La siguiente tabla consolida las mediciones técnicas reales recopiladas en los 
 | *Tamaño Final del APK (Release)* | *52.41 MB* | *58.00 MB* | Medición de archivos binarios finales  |
 | *Tiempo de Arranque (Cold Start)* | *0.90 s* | *2.20 s* | Tiempo promedio de ejecución en frío  |
 | *Tiempo de Compilación Release* | *24.05 s* | *3.50 min* | Medido localmente en máquina de desarrollo |
-| *Latencia de Red Promedio (API)* | *195.65 ms* | *195.65 ms* | ]Muestreo por script de red externo ($N=20$)  |
+| *Latencia de Red Promedio (API)* | *195.65 ms* | *195.65 ms* | Muestreo por script de red externo ($N=20$)  |
 | *Eficiencia de Recarga de Código* | < 1.00 s | 0.3 - 1.5 s | Latencias de respuesta de recarga en tiempo real  |
 
 ### Análisis Detallado de los Resultados
